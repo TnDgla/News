@@ -162,10 +162,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Add a dropdown for category selection.
      - **Reading:** [React Select Components](https://react-select.com/home)  
-     - **Video:** [React Dropdown Tutorial](https://www.youtube.com/watch?v=YY57XDKK98U)
+     - **Video:** [React Dropdown Tutorial](https://www.youtube.com/watch?v=Objl-IGpM98)
   2. Integrate a country filter with flags.
-     - **Reading:** [React Flag Picker](https://github.com/ekwonye-richard/react-world-flags-select)  
-     - **Video:** [Country Flags in React](https://www.youtube.com/watch?v=c3lGBWfFd1g)
+     - **Reading:** [React Flag Picker](https://www.npmjs.com/package/react-flags-select)  
+     - **Video:** [Country Flags in React](https://www.youtube.com/watch?v=4IQ2wxCmMsg)
   3. Fetch and display filtered news articles.
 
 - **Deliverables:**
