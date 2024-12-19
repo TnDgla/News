@@ -182,7 +182,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Dark Mode in React](https://www.youtube.com/watch?v=_9mTJ84uL1Q)
   2. Optimize the app for different screen sizes.
      - **Reading:** [Responsive Design with Tailwind](https://tailwindcss.com/docs/responsive-design)  
-     - **Video:** [Responsive React Apps](https://www.youtube.com/watch?v=mc3gNf-v7Gs)
+     - **Video:** [Responsive Tailwind](https://www.youtube.com/watch?v=WGsiW_-2rZg)
 
 - **Deliverables:**
   - Responsive UI with theme toggling.
