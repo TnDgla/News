@@ -195,7 +195,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Write tests for components and API endpoints.
      - **Reading:** [Jest for Testing React](https://jestjs.io/docs/tutorial-react)  
-     - **Video:** [React Testing with Jest](https://www.youtube.com/watch?v=GzVY2Hk1c8Y)
+     - **Video:** [React Testing with Jest](https://www.youtube.com/watch?v=8Xwq35cPwYg&t=2024s)
   2. Deploy the app using platforms like Vercel or Netlify.
      - **Reading
 
