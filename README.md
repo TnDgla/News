@@ -143,12 +143,12 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Fetch news articles from the backend API.
      - **Reading:** [Axios for API Calls](https://axios-http.com/docs/intro)  
-     - **Video:** [Using Axios with React](https://www.youtube.com/watch?v=-4NCOVfC8sc)
+     - **Video:** [Using Axios with React](https://www.youtube.com/watch?v=ug0tq-EidEE)
   2. Display news articles in cards using React components.
      - **Reading:** [React Rendering Lists](https://reactjs.org/docs/lists-and-keys.html)  
-     - **Video:** [Building Card Components in React](https://www.youtube.com/watch?v=jzmRjaP0rnc)
+     - **Video:** [Building Card Components in React](https://www.youtube.com/watch?v=Ts3kTbdQ_4U)
   3. Add pagination for seamless navigation.
-     - **Reading:** [React Pagination](https://www.digitalocean.com/community/tutorials/react-pagination-component)  
+     - **Reading:** [React Pagination](https://www.npmjs.com/package/react-paginate)  
      - **Video:** [Pagination in React](https://www.youtube.com/watch?v=IYCa1F-OWmk)
 
 - **Deliverables:**
