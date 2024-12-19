@@ -124,13 +124,13 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Set up a Vite project with React.js.
      - **Reading:** [Vite Documentation](https://vitejs.dev/guide/)  
-     - **Video:** [Vite and React Setup](https://www.youtube.com/watch?v=Zxw3_vGnV2U)
+     - **Video:** [Vite and React Setup](https://www.youtube.com/watch?v=3zgTol3oUzk)
   2. Install Tailwind CSS for responsive design.
      - **Reading:** [Tailwind CSS Docs](https://tailwindcss.com/docs)  
      - **Video:** [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME)
   3. Create reusable components like Navbar and Footer.
      - **Reading:** [React Components](https://reactjs.org/docs/components-and-props.html)  
-     - **Video:** [Reusable Components in React](https://www.youtube.com/watch?v=4H1fo8hZ-xo)
+     - **Video:** [Reusable Components in React](https://www.youtube.com/watch?v=S4VH8hddg8c&t=101s)
 
 - **Deliverables:**
   - Functional frontend layout with basic navigation.
