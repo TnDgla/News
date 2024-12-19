@@ -197,7 +197,8 @@ This project is structured to ensure a systematic and incremental development pr
      - **Reading:** [Jest for Testing React](https://jestjs.io/docs/tutorial-react)  
      - **Video:** [React Testing with Jest](https://www.youtube.com/watch?v=8Xwq35cPwYg&t=2024s)
   2. Deploy the app using platforms like Vercel or Netlify.
-     - **Reading
+     - **Reading:** [Netlify Deployment Guide](https://docs.netlify.com/)
+     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=eSeBVcKZx9Y)
 
 ### **Screenshots**
 ![Screenshot (361)](https://github.com/user-attachments/assets/1eff97fb-5a26-41fa-a717-3d064afaf122)
