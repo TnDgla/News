@@ -85,6 +85,11 @@ To provide users with an easy-to-navigate, responsive platform for browsing news
 ## **Workflow Overview**
 The application workflow involves fetching data from external APIs, processing it in the backend, and serving it to the frontend for display. Users can interact with the frontend to filter and navigate news articles.
 
+### **FlowChart**
+
+![image](https://github.com/user-attachments/assets/38a7517b-622f-4ca5-8eb1-4fb7d3bbc1fb)
+
+
 ---
 
 ### **Project Structure for Feature Implementation**
